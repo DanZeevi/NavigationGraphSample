@@ -1,4 +1,4 @@
 # NavigationGraphSample
-Fragment navigation sample using navigation graph and safe args
-simple and useful
-Gradle dependencies commented
+Fragment navigation sample using navigation graph and safe args<br>
+simple and useful<br>
+Gradle dependencies commented<br>
